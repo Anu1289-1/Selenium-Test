@@ -24,7 +24,7 @@ A robust and modern test automation framework built with Selenium WebDriver, des
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Selenium-Test.git
+   git clone https://github.com/Anu1289-1/Selenium-Test.git
    cd Selenium-Test
    ```
 
