@@ -1,0 +1,18 @@
+
+
+#Ignore vscode AI rules
+.github\copilot-instructions.md
+
+# Maven target build directory
+/target/
+
+# IntelliJ / Eclipse project files (optional but good)
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
